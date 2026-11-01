@@ -9,7 +9,7 @@
 0 !KEYWORDS ELECFREAKS, TPBot
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\ef08230shell.dat
-1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\ef08230panel.dat
+1 0 0 -187 135 1 0 0 0 1 0 0 0 1 s\ef08230panel.dat
 1 0 -35 -187 135 1 0 0 0 1 0 0 0 1 s\ef08230eye.dat
 1 0 35 -187 135 1 0 0 0 1 0 0 0 1 s\ef08230eye.dat
 1 7 -65 -111.5 -122 1 0 0 0 1 0 0 0 1 s\rj11socket.dat
